@@ -1,6 +1,5 @@
 # CHATTY
-- Se creo un proyecto con firebase ,react ,react router y se logro desplegarlo en el siguiente link.
-- https://chatty-25936.web.app
+
 
 ## Getting Started with Create React App
 
